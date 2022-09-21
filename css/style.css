@@ -1,0 +1,8 @@
+table{
+    width: 100%;
+    border: 2px solid red;
+}
+table td{
+    padding: 15px;
+    background-color: wheat;
+}
